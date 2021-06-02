@@ -14,6 +14,4 @@ public class DynamicBinding {
         Animal2 a2 = new Dog2();  // upcast
         a2.eat2();
     }
-
-
 }
